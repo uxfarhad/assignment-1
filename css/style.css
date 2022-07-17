@@ -56,9 +56,21 @@ body {
     color: white;
 }
 
+#donate-btn {
+    padding: 20px 34px;
+    background-color: #f74f22;
+    text-decoration: none;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 30px;
+    align-items: center;
+}
+
 .header-btn {
     font-size: 25px;
-    font-style: bold;
     font-weight: 500;
 }
 
